@@ -1,4 +1,4 @@
-Project Manager Task Management System
+Project Task Management System
 
 ## 🐳 Setup
 
